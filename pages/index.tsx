@@ -416,7 +416,7 @@ export default function Page() {
         message: "",
       })}
     >
-      <div className="fixed inset-0 flex select-none items-center justify-center bg-white">
+     <div className="fixed inset-0 flex select-none items-center justify-center bg-black">
         <div className="max-w-sm text-center">
           <ul className="mt-4 flex items-center justify-center space-x-2">
             <li className="flex items-center space-x-2 rounded-md bg-gray-100 py-2 px-3 text-sm">
